@@ -1311,29 +1311,29 @@ http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/239097.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3Rx5tk1Q/duronto-tv.png" group-title="CARTOON", Rongeen Tv
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LZPwHc2.png" group-title="CARTOON", Disney HD
-http://xtv.ooo:8080/6199216/619002/167551
+http://xtv.ooo:8080/live/387546/200900/167551.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Nickelodeon
-http://195.26.87.217/live.ts?channelId=254&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://xtv.ooo:8080/live/387546/200900/150482.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xbQSPP3.png" group-title="CARTOON", Discovery Kids
-https://dplus.gammacdn.workers.dev/videos/113.m3u8
+http://xtv.ooo:8080/live/387546/200900/76723.ts
 #EXTINF: -1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="CARTOON", Kids Cartoon
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/fRfZL52V/images-5-3.jpg" group-title="CARTOON", Kidsland
 https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="CARTOON", Cartoon Network
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+http://xtv.ooo:8080/live/387546/200900/346249.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="CARTOON", Cartoon Network Hindi
-https://da.gd/cnfreetvbd
+http://xtv.ooo:8080/live/387546/200900/150478.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title="CARTOON", Beani Kids
 https://streams.sofast.tv/ptnr-yupptv/title-BEANI-KIDS-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ae504cae-b81f-49e6-8b40-71d7c0843589/manifest.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="CARTOON", TOON GOOGLE
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DZtvMpgS/download-10.png" group-title="CARTOON", Pop Max
-https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+http://xtv.ooo:8080/live/387546/200900/346265.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Nick
 https://sadman0.000webhostapp.com/o/hoichoi.m3u8?id=1305
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Nick Hindi
-http://xtv.ooo:8080/live/T4S00515/820172/150482.ts
+http://xtv.ooo:8080/live/387546/200900/34011.ts
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Dt71mFD/Picsart-23-06-09-15-48-44-052.png" group-title="CARTOON", GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="CARTOON", Sonic
@@ -1351,11 +1351,11 @@ http://xtv.ooo:8080/live/T4S00515/820172/350891.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FRrHfYJ.jpg" group-title="CARTOON", Mr.Been
 http://xtv.ooo:8080/live/T4S00515/820172/342074.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SR88PSTB/images-4-21.jpg" group-title="CARTOON", Motu Patlu
-http://xtv.ooo:8080/live/anus1428/111000111/307079.ts
+http://xtv.ooo:8080/live/387546/200900/307079.ts
 #EXTINF: -1 tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="CARTOON", KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JYQvZ9K.png" group-title="CARTOON", Tom & Jerry
-http://xtv.ooo:8080/live/T4S00515/820172/329247.ts
+http://xtv.ooo:8080/live/387546/200900/329247.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nOYdnaK.png" group-title="CARTOON", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8?DVR
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/QMR1b7hH/download-10.png" group-title="CARTOON", Pogo
@@ -1978,6 +1978,8 @@ http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60005
 http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/60004
 #EXTINF:-1 group-title="24/7" tvg-id="tring.international.al" ,24/7 286:SIMPSONS
 http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/30265
+
+
 #EXTINF:-1 group-title="UK Kids" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK006BabyTV.png" tvg-id="baby.gb" ,UK006:Baby TV
 http://vo01.mohdtv.com:8880/voby0315/1393841580cde0052c21/2951
 #EXTINF:-1 group-title="UK Kids" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK013Boomerang.png" tvg-id="boomerang.gb" ,UK013:Boomerang
